@@ -8,7 +8,7 @@ Resources for Luova Web Development Bootcamp
 2. [CSS](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/blob/master/Calculator/calculator.css)
 3. [JavaScript](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/blob/master/Calculator/calculator.js)
 
-# [BMI Calculator]()
+# [BMI Calculator](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/tree/master/BMICalculator)
 1. [HTML](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/blob/master/BMICalculator/BMICalculator.html)
 2. [CSS](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/blob/master/BMICalculator/BMICalculator.css)
 3. [JavaScript](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/blob/master/BMICalculator/BMICalculator.js)
