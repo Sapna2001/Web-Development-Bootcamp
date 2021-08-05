@@ -1,7 +1,4 @@
-# Luova Web Development Bootcamp
-Resources for Luova Web Development Bootcamp
-
-![Image](https://user-images.githubusercontent.com/56690856/128362286-8f31de74-2507-44ea-b700-8f18a3f20950.jpg)
+Web Development Bootcamp
 
 # [Calculator](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/tree/master/Calculator)
 1. [HTML](https://github.com/Sapna2001/LuovaWebDevelopmentBootcamp/blob/master/Calculator/calculator.html)
