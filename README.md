@@ -25,6 +25,7 @@
 12. [Flexbox PPT by Madhav Bahl](https://github.com/MadhavBahl/flexbox-webinar)
 13. [Variables FreeCodeCamp Blog](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 14. [JavaScript Playlist by Hitesh Choudhary](https://youtu.be/2md4HQNRqJA)
+15. [web dev for the win!](https://tanaypratap.substack.com/p/web-dev-for-the-win?utm_campaign=post&utm_medium=email&utm_source=copy)
 
 # PPT
 Here is the [PPT](https://www.canva.com/design/DAEmPFgDwnw/TVErJVfKJe4k9H8sSjnTYQ/view?utm_content=DAEmPFgDwnw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
