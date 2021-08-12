@@ -1,9 +1,7 @@
-window.onload = () => {
-  let button = document.querySelector("#btn");
+let button = document.querySelector("#btn");
 
-  // Function for calculating BMI
-  button.addEventListener("click", calculateBMI);
-};
+// Function for calculating BMI
+button.addEventListener("click", calculateBMI);
 
 function calculateBMI() {
   /* Getting input from user into height variable.
