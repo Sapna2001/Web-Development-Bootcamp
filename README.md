@@ -29,6 +29,8 @@
 16. [Host site on GitHub](https://sapna2001.medium.com/create-a-portfolio-website-in-a-jiffy-bd5f0e88483e)
 17. [Git Part: 1](https://codeburst.io/git-from-zero-to-hero-basics-9d8705f3b7dd)
 18. [Git Part: 2](https://codeburst.io/git-from-zero-to-hero-a-level-higher-ab5643b52bb)
+19. [Codecombat](https://codecombat.com/play)
+20. [Advanced JavaScript](https://javascript.info/)
 
 # PPT
 Here is the [PPT](https://www.canva.com/design/DAEmPFgDwnw/TVErJVfKJe4k9H8sSjnTYQ/view?utm_content=DAEmPFgDwnw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
