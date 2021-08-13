@@ -32,6 +32,7 @@
 19. [Codecombat](https://codecombat.com/play)
 20. [Advanced JavaScript](https://javascript.info/)
 21. [Traversy media](https://www.youtube.com/c/TraversyMedia/playlists)
+22. [JavaScript Visualizer](http://www.jsv9000.app/)
 
 # PPT
 Here is the [PPT](https://www.canva.com/design/DAEmPFgDwnw/TVErJVfKJe4k9H8sSjnTYQ/view?utm_content=DAEmPFgDwnw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
